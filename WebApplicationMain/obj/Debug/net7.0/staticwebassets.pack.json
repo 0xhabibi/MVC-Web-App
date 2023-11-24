@@ -1,0 +1,557 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebApplicationMain.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplicationMain.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\css\\base.css",
+      "PackagePath": "staticwebassets\\resources\\css\\base.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\css\\font-awesome\\css\\fa-brands.css",
+      "PackagePath": "staticwebassets\\resources\\css\\font-awesome\\css\\fa-brands.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\css\\font-awesome\\css\\fa-brands.min.css",
+      "PackagePath": "staticwebassets\\resources\\css\\font-awesome\\css\\fa-brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\css\\font-awesome\\css\\fa-regular.css",
+      "PackagePath": "staticwebassets\\resources\\css\\font-awesome\\css\\fa-regular.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\css\\font-awesome\\css\\fa-regular.min.css",
+      "PackagePath": "staticwebassets\\resources\\css\\font-awesome\\css\\fa-regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\css\\font-awesome\\css\\fa-solid.css",
+      "PackagePath": "staticwebassets\\resources\\css\\font-awesome\\css\\fa-solid.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\css\\font-awesome\\css\\fa-solid.min.css",
+      "PackagePath": "staticwebassets\\resources\\css\\font-awesome\\css\\fa-solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\css\\font-awesome\\css\\fontawesome-all.css",
+      "PackagePath": "staticwebassets\\resources\\css\\font-awesome\\css\\fontawesome-all.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\css\\font-awesome\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\resources\\css\\font-awesome\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\css\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\resources\\css\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\css\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\resources\\css\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\css\\font-awesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\resources\\css\\font-awesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\css\\font-awesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\resources\\css\\font-awesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\css\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\resources\\css\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\css\\font-awesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\resources\\css\\font-awesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\css\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\resources\\css\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\css\\font-awesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\resources\\css\\font-awesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\css\\font-awesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\resources\\css\\font-awesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\css\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\resources\\css\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\css\\font-awesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\resources\\css\\font-awesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\css\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\resources\\css\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\css\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\resources\\css\\font-awesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\css\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\resources\\css\\font-awesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\css\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\resources\\css\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\css\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\resources\\css\\font-awesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\css\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\resources\\css\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\css\\main.css",
+      "PackagePath": "staticwebassets\\resources\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\css\\vendor.css",
+      "PackagePath": "staticwebassets\\resources\\css\\vendor.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\avatars\\user-01.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\avatars\\user-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\avatars\\user-02.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\avatars\\user-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\avatars\\user-03.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\avatars\\user-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\avatars\\user-04.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\avatars\\user-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\avatars\\user-05.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\avatars\\user-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\hero-pic.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\hero-pic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\icons\\icon-arrow-up.svg",
+      "PackagePath": "staticwebassets\\resources\\images\\icons\\icon-arrow-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\icons\\icon-briefcase.svg",
+      "PackagePath": "staticwebassets\\resources\\images\\icons\\icon-briefcase.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\icons\\icon-education.svg",
+      "PackagePath": "staticwebassets\\resources\\images\\icons\\icon-education.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\icons\\icon-link.svg",
+      "PackagePath": "staticwebassets\\resources\\images\\icons\\icon-link.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\icons\\icon-mail.svg",
+      "PackagePath": "staticwebassets\\resources\\images\\icons\\icon-mail.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\icons\\icon-plus.svg",
+      "PackagePath": "staticwebassets\\resources\\images\\icons\\icon-plus.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\resources\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\pattern-dot-grid.svg",
+      "PackagePath": "staticwebassets\\resources\\images\\pattern-dot-grid.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\photoswipe\\default-skin.png",
+      "PackagePath": "staticwebassets\\resources\\images\\photoswipe\\default-skin.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\photoswipe\\default-skin.svg",
+      "PackagePath": "staticwebassets\\resources\\images\\photoswipe\\default-skin.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\photoswipe\\preloader.gif",
+      "PackagePath": "staticwebassets\\resources\\images\\photoswipe\\preloader.gif"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\portfolio\\city-building.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\portfolio\\city-building.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\portfolio\\city-building@2x.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\portfolio\\city-building@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\portfolio\\fuji.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\portfolio\\fuji.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\portfolio\\fuji@2x.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\portfolio\\fuji@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\portfolio\\gallery\\g-beetle.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\portfolio\\gallery\\g-beetle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\portfolio\\gallery\\g-city-building.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\portfolio\\gallery\\g-city-building.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\portfolio\\gallery\\g-fuji.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\portfolio\\gallery\\g-fuji.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\portfolio\\gallery\\g-lamp.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\portfolio\\gallery\\g-lamp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\portfolio\\gallery\\g-shutterbug.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\portfolio\\gallery\\g-shutterbug.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\portfolio\\gallery\\g-woodcraft.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\portfolio\\gallery\\g-woodcraft.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\portfolio\\lamp.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\portfolio\\lamp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\portfolio\\lamp@2x.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\portfolio\\lamp@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\portfolio\\shutterbug.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\portfolio\\shutterbug.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\portfolio\\shutterbug@2x.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\portfolio\\shutterbug@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\portfolio\\the-beetle.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\portfolio\\the-beetle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\portfolio\\the-beetle@2x.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\portfolio\\the-beetle@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\portfolio\\woodcraft.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\portfolio\\woodcraft.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\portfolio\\woodcraft@2x.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\portfolio\\woodcraft@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\sample-image.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\sample-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\services-bg.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\services-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\wheel-1000.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\wheel-1000.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\wheel-2000.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\wheel-2000.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\images\\wheel-500.jpg",
+      "PackagePath": "staticwebassets\\resources\\images\\wheel-500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\resources\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\js\\main.js",
+      "PackagePath": "staticwebassets\\resources\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\resources\\js\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\js\\pace.min.js",
+      "PackagePath": "staticwebassets\\resources\\js\\pace.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\decagon\\WebApplicationMain\\WebApplicationMain\\wwwroot\\resources\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\resources\\js\\plugins.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebApplicationMain.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebApplicationMain.props",
+      "PackagePath": "build\\WebApplicationMain.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplicationMain.props",
+      "PackagePath": "buildMultiTargeting\\WebApplicationMain.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebApplicationMain.props",
+      "PackagePath": "buildTransitive\\WebApplicationMain.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
